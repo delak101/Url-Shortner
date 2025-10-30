@@ -2,6 +2,11 @@
 
 A simple and efficient URL shortener service built with ASP.NET Core 9.0 and SQLite. This service allows you to create short URLs, manage them, and track access statistics.
 
+
+
+> **Project Source**: This project is based on the [URL Shortening Service](https://roadmap.sh/projects/url-shortening-service) project from [roadmap.sh](https://roadmap.sh) - a comprehensive learning platform for developers.
+
+
 ## Features
 
 - **Shorten URLs**: Convert long URLs into short, manageable links
