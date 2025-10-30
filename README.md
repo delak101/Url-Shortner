@@ -2,6 +2,12 @@
 
 A simple and efficient URL shortener service built with ASP.NET Core 9.0 and SQLite. This service allows you to create short URLs, manage them, and track access statistics.
 
+### Why ASP.NET Core 9.0 (and not 8.0)
+
+- Latest runtime and language features (C# 13) used by the project for cleaner code and improved productivity.  
+- Performance, hosting, and GC improvements introduced in 9.0 yield lower latency and smaller resource usage.  
+- Updated platform APIs and dependency compatibility (EF Core, tooling, and middleware) reduce workarounds and maintenance.  
+- Aligns the project with the newest SDK for better long-term support and easier upgrades.
 
 
 > **Project Source**: This project is based on the [URL Shortening Service](https://roadmap.sh/projects/url-shortening-service) project from [roadmap.sh](https://roadmap.sh) - a comprehensive learning platform for developers.
